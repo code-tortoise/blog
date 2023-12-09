@@ -5,4 +5,4 @@ title: Cat
 
 cat
 
-<img src="bootlesscat.jpg">
+<img src="/bootlesscat.jpg">
