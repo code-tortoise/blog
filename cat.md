@@ -3,6 +3,6 @@ layout: page
 title: Cat
 ---
 
-cat
+cat!
 
 <img src="/bootlesscat.jpg">
