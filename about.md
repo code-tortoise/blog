@@ -34,10 +34,13 @@ Thanks for reading!
 Hello, I'm Sam Beales a recent Master's in Immunobiology and Bioinformatics graduate looking into working in bioinformatics. To help I've decided to try my hand at developing my own personal website. 
 
 ## Contact me
-**Email:** [mail@sam-beales.uk](mailto:mail@sam-beales.uk) <br />
-**LinkedIn:** [linkedin.com/in/sam-beales](https://www.linkedin.com/in/sam-beales) <br />
-**LinkedIn:** [linkedin.com/in/sam-beales](https://www.linkedin.com/in/sam-beales) <br />
-**CV:** [CV](/public/cv.pdf) <br />
+[**Email**](mailto:mail@sam-beales.uk) <br />
+[**LinkedIn**](https://www.linkedin.com/in/sam-beales) <br />
+[**Curriculum vitae**](/public/cv.pdf) <br />
+
+<div id="pdf">
+  <object data="/public/cv.pdf" type="application/pdf" width="100%" height="100%">
+</div>
 
 <!---
 HTML version
