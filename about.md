@@ -2,6 +2,7 @@
 layout: page
 title: About
 ---
+<link rel="stylesheet" href="/public/css/bootstrap.min.css">
 <!---
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
@@ -42,6 +43,8 @@ Hello, I'm Sam Beales a recent Master's in Immunobiology and Bioinformatics grad
   <object data="/public/cv.pdf" type="application/pdf" width="100%" height="300%">
 </div>
 
+<div class">
+
 <!---
 HTML version
 <p> <b> CV: </b> <a href="/public/cv.pdf">CV</a>.</p> <br />
@@ -52,3 +55,4 @@ HTML version
  bootstrap is recommended by Matthew for HTML projects
  https://getbootstrap.com
 -->
+<script src="/public/javascript/bootstrap.min.js"></script>
