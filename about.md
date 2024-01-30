@@ -39,7 +39,7 @@ Hello, I'm Sam Beales a recent Master's in Immunobiology and Bioinformatics grad
 [**Curriculum vitae**](/public/cv.pdf) <br />
 
 <div id="pdf">
-  <object data="/public/cv.pdf" type="application/pdf" width="100%" height="100%">
+  <object data="/public/cv.pdf" type="application/pdf" width="100%" height="300%">
 </div>
 
 <!---
