@@ -43,8 +43,11 @@ Hello, I'm Sam Beales a recent Master's in Immunobiology and Bioinformatics grad
   <object data="/public/cv.pdf" type="application/pdf" width="100%" height="300%">
 </div>
 
-<div class">
-
+<div class="btn-group" role="group">
+  <button type="button" class="btn btn-primary">Test 1</button>
+  <button type="button" class="btn btn-danger">Test 1</button>
+  <button type="button" class="btn btn-success">Test 1</button>
+</div>
 <!---
 HTML version
 <p> <b> CV: </b> <a href="/public/cv.pdf">CV</a>.</p> <br />
@@ -54,5 +57,7 @@ HTML version
  Ctrl+[: To remove indent in code
  bootstrap is recommended by Matthew for HTML projects
  https://getbootstrap.com
+ for bootstrap guide use main bootstrap website
 -->
 <script src="/public/javascript/bootstrap.min.js"></script>
+
