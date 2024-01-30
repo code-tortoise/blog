@@ -2,8 +2,9 @@
 layout: page
 title: About
 ---
-<link rel="stylesheet" href="/public/css/bootstrap.min.css">
 <!---
+<link rel="stylesheet" href="/public/css/bootstrap.min.css">
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
@@ -39,6 +40,8 @@ Hello, I'm Sam Beales a recent Master's in Immunobiology and Bioinformatics grad
 [**LinkedIn**](https://www.linkedin.com/in/sam-beales) <br />
 [**Curriculum vitae**](/public/cv.pdf) <br />
 
+<!---
+
 <div id="pdf">
   <object data="/public/cv.pdf" type="application/pdf" width="100%" height="300%"></object>
 </div>
@@ -48,7 +51,7 @@ Hello, I'm Sam Beales a recent Master's in Immunobiology and Bioinformatics grad
   <button type="button" class="btn btn-danger">Test 1</button>
   <button type="button" class="btn btn-success">Test 1</button>
 </div>
-<!---
+
 HTML version
 <p> <b> CV: </b> <a href="/public/cv.pdf">CV</a>.</p> <br />
 <p strong>hello world!</p> 
@@ -58,6 +61,5 @@ HTML version
  bootstrap is recommended by Matthew for HTML projects
  https://getbootstrap.com
  for bootstrap guide use main bootstrap website
--->
 <script src="/public/javascript/bootstrap.min.js"></script>
-
+-->
