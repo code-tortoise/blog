@@ -38,11 +38,12 @@ Hello, I'm Sam Beales a recent Master's in Immunobiology and Bioinformatics grad
 **LinkedIn:** [linkedin.com/in/sam-beales](https://www.linkedin.com/in/sam-beales) <br />
 **LinkedIn:** [linkedin.com/in/sam-beales](https://www.linkedin.com/in/sam-beales) <br />
 **CV:** [CV](/public/cv.pdf) <br />
+
 <!---
 HTML version
 <p> <b> CV: </b> <a href="/public/cv.pdf">CV</a>.</p> <br />
-<p strong>hello world!</p> #
-# Alt+Shift+A: To comment a segment of selected text
-# Ctrl+]: To add indent code
-# Ctrl+[: To remove indent in code
+<p strong>hello world!</p> 
+ Alt+Shift+A: To comment a segment of selected text
+ Ctrl+]: To add indent code
+ Ctrl+[: To remove indent in code
 --->
