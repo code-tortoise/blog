@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<!--
+<!---
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
@@ -46,4 +46,4 @@ HTML version
  Alt+Shift+A: To comment a segment of selected text
  Ctrl+]: To add indent code
  Ctrl+[: To remove indent in code
---->
+-->
