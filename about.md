@@ -49,4 +49,6 @@ HTML version
  Alt+Shift+A: To comment a segment of selected text
  Ctrl+]: To add indent code
  Ctrl+[: To remove indent in code
+ bootstrap is recommended by Matthew for HTML projects
+ https://getbootstrap.com
 -->

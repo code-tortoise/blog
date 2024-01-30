@@ -7,3 +7,5 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3"
 
 gem "jekyll-paginate", "~> 1.1"
+
+gem "bootstrap", "= 5.3.2"
