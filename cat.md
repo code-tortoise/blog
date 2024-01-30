@@ -1,3 +1,4 @@
+<!---
 ---
 layout: page
 title: Cat
@@ -6,3 +7,4 @@ title: Cat
 cat!
 
 <img src="/bootlesscat.jpg">
+--->

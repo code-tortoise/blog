@@ -38,5 +38,8 @@ Hello, I'm Sam Beales a recent Master's in Immunobiology and Bioinformatics grad
 **LinkedIn:** [linkedin.com/in/sam-beales](https://www.linkedin.com/in/sam-beales) <br />
 **LinkedIn:** [linkedin.com/in/sam-beales](https://www.linkedin.com/in/sam-beales) <br />
 **CV:** [CV](/public/cv.pdf) <br />
+<!---
+HTML version
 <p>CV: <a href="/public/cv.pdf">CV</a>.</p> <br />
 <p strong>hello world!</p>
+--->
