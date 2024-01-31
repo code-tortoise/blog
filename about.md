@@ -38,10 +38,10 @@ Hello, I'm Sam Beales a recent Master's in Immunobiology and Bioinformatics grad
 ## Contact me
 [**Email**](mailto:mail@sam-beales.uk) <br />
 [**LinkedIn**](https://www.linkedin.com/in/sam-beales) <br />
+<!---
 [**Curriculum vitae**](/cv.pdf) <br />
 [**GitHub**](https://github.com/code-tortoise)
 
-<!---
 
 <div id="pdf">
   <object data="/public/cv.pdf" type="application/pdf" width="100%" height="300%"></object>
