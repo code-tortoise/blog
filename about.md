@@ -40,6 +40,7 @@ Hello, I'm Sam Beales a recent Master's in Immunobiology and Bioinformatics grad
 [**LinkedIn**](https://www.linkedin.com/in/sam-beales)
 
 <!---
+
 [**Curriculum vitae**](/cv.pdf) <br />
 [**GitHub**](https://github.com/code-tortoise)
 
