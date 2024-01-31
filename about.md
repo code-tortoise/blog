@@ -38,7 +38,7 @@ Hello, I'm Sam Beales a recent Master's in Immunobiology and Bioinformatics grad
 ## Contact me
 [**Email**](mailto:mail@sam-beales.uk) <br />
 [**LinkedIn**](https://www.linkedin.com/in/sam-beales) <br />
-[**Curriculum vitae**](/public/cv.pdf) <br />
+[**Curriculum vitae**](/cv.pdf) <br />
 
 <!---
 
