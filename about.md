@@ -2,8 +2,9 @@
 layout: page
 title: About
 ---
-<!---
 <link rel="stylesheet" href="/public/css/bootstrap.min.css">
+
+<!---
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
