@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About
+title: Test
 ---
-<!---
 
 <link rel="stylesheet" href="/public/css/bootstrap.min.css">
 
@@ -41,7 +40,6 @@ Hello, I'm Sam Beales a recent Master's in Immunobiology and Bioinformatics grad
 [**Email**](mailto:mail@sam-beales.uk) <br />
 [**LinkedIn**](https://www.linkedin.com/in/sam-beales)
 
-<!---
 
 [**Curriculum vitae**](/cv.pdf) <br />
 [**GitHub**](https://github.com/code-tortoise)
@@ -67,4 +65,3 @@ HTML version
  https://getbootstrap.com
  for bootstrap guide use main bootstrap website
 <script src="/public/javascript/bootstrap.min.js"></script>
---> 
