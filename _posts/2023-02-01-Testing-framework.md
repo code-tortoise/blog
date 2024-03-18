@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Developing a proper testing environment
+title: Developing a proper help environment
 ---
 
 In order to test out changes to the site I need a page seperate to the main group for testing purposes. For this reason the Test page was created. To store all the various notes and practice before rolling out across the site.
