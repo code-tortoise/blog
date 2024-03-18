@@ -1,14 +1,6 @@
 ---
 layout: post
-title: Bootstrap and HTML
+title: Developing a proper testing environment
 ---
 
-Important points i want to cover:
-Cloudflare and buying a custom domain
-HTML and Bootstrap
-Gems and Ruby
-Windows sub-system for linux
-
-GitHub pages and Windows sub-system for Linux
-
-If you are new to developing 
+In order to test out changes to the site I need a page seperate to the main group for testing purposes. For this reason the Test page was created. To store all the various notes and practice before rolling out across the site. 
