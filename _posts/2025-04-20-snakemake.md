@@ -2,7 +2,7 @@
 layout: post
 title: Workflow managers, Snakemake!
 ---
-This last few weeks I made it my mission to understand a workflow manager. My options seemed to be split between a consensus of Nextflow and Snakemake. Coming to the conclusion that Snakemake would be the better choice considering my previous experience with Python compared to Nextflow, which is built in Groovy/(which is a dialect of Java/). 
+This last few weeks I made it my mission to understand a workflow manager. My options seemed to be split between a consensus of Nextflow and Snakemake. Coming to the conclusion that Snakemake would be the better choice considering my previous experience with Python compared to Nextflow, which is built in Groovy(which is a dialect of Java). 
 
 From there I worked to complete the advanced and basic tutorials for Snakemake. From which I am very impressed! The layers of reproducibilty and reliability that it provides is very impressive. 
 
