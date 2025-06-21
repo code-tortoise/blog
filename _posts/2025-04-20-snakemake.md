@@ -8,4 +8,4 @@ From there I worked to complete the advanced and basic tutorials for Snakemake. 
 
 Furthermore it has introduced me to Pixi. An alternative package manager to Conda, that boasts of being [up to 10x faster than Mamba when installing and resolving an environment from scratch](https://prefix.dev/blog/pixi_a_fast_conda_alternative). As well as a host of other benefits mentioned in the article hyperlinked above.
 
-I look forward to applying Snakemake and Pixi in my future projects!
+I look forward to applying Snakemake and Pixi in future projects!
